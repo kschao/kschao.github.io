@@ -19,7 +19,7 @@ body p {
 }
 body h3 {
     text-align: center;
-    color: #802123;
+    color: #000000;
     font-size: x-large;
 }
 #link-algin a {
@@ -29,7 +29,7 @@ body h3 {
     text-decoration: none;
 }
 body img {
-    padding-left: 646px;
+    padding-left: 605px;
     clear: none;
 }
 body h4 {
@@ -37,4 +37,34 @@ body h4 {
     text-align: center;
     font-style: normal;
     font-size: large;
+}
+body p4 {
+    color: #CBCBCB;
+}
+body h1github link {
+    color: #B3B3B3;
+    text-align: center;
+    padding-left: 0px;
+    font-size: medium;
+}
+body li4 {
+    color: #B3B3B3;
+    text-align: center;
+    padding-left: 0px;
+}
+body a {
+    color: #AD0707;
+    font-style: oblique;
+    padding-left: 618px;
+}
+body p44 {
+    color: #AD0707;
+    padding-left: 0px;
+}
+
+body h5 {
+    color: #E6E053;
+    font-style: oblique;
+    font-size: x-large;
+    padding-left: 368px;
 }
