@@ -1,0 +1,23 @@
+body h1 {
+    color: #2D1A2F;
+    font-size: xx-large;
+    text-align: center;
+    font-family: allura;
+    font-style: normal;
+    font-weight: 400;
+}
+body h2 {
+    color: #383585;
+    font-style: normal;
+    text-align: center;
+}
+body p {
+    text-align: center;
+    color: #000000;
+}
+#link-algin a {
+    color: #000000;
+    font-size: small;
+    font-style: oblique;
+    text-decoration: none;
+}
